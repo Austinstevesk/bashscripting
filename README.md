@@ -1,3 +1,3 @@
 # bashscripting
 
-Will be updating some bash
+Will be updating some bash scripts
